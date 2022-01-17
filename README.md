@@ -1,4 +1,6 @@
 # Pong-Game
+This game made by only using graphics.py
+How To Play
 's' ---> start
 'a' ---> left
 'd' ---> right
